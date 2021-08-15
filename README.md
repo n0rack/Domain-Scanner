@@ -3,8 +3,8 @@
 <h1> Installation </h1>
 <code><h3>For Ubuntu:
   
-sudo add-apt-repository ppa:ondrej/php  
-sudo apt update
+sudo add-apt-repository ppa:ondrej/php \n 
+sudo apt update\n
 sudo apt install curl
 dpkg -l curl
 sudo apt install apache2
