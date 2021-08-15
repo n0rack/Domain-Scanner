@@ -1,3 +1,3 @@
 # Domain-Scanner
 +z0rak's public Domain-Scanner. check for specific directory's
-<script> HI </script>
+<h1> Installation </h1>
